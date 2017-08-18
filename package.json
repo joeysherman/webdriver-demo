@@ -1,0 +1,16 @@
+{
+  "name": "webdriver-demo",
+  "version": "1.0.0",
+  "description": "Getting used to and testing selenium webdriver with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "selenium-webdriver": "^3.3.0"
+  }
+}
